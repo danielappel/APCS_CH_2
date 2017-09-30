@@ -1,0 +1,37 @@
+package book;
+
+
+/**
+ * Write a description of class MyClass here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class MyClass
+{
+    // instance variables - replace the example below with your own
+    private int x;
+    private String z;
+
+    /**
+     * Constructor for objects of class MyClass
+     */
+    public MyClass()
+    {
+        // initialise instance variables
+        x = 0;
+        z = "Hello, I'm an instance variable";
+    }
+
+    /**
+     * An example of a method - replace this comment with your own
+     * 
+     * @param  y   a sample parameter for a method
+     * @return     the sum of x and y 
+     */
+    public int sampleMethod(int y)
+    {
+        // put your code here
+        return x + y;
+    }
+}

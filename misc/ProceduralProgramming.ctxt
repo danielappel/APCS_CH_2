@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=val1\ val2
+comment0.target=double\ mean(double,\ double)
+comment0.text=\r\n\ Static\ methods\ can\ be\ called\ using\ the\ class\ name\ or\r\n\ from\ anywhere\ within\ the\ class\ in\ which\ they\ are\ defined\r\n\r\n\ @param\ \ val1\ \ first\ of\ two\ values\ to\ be\ averaged\r\n\ @param\ \ val2\ \ second\ of\ two\ values\ to\ be\ averaged\r\n\ @return\ \ \ \ \ \ \ the\ average\ of\ val1\ and\ val2\r\n
+comment1.params=val1\ val2
+comment1.target=double\ sumOfSquares(double,\ double)
+comment2.params=val1\ val2
+comment2.target=double\ magnitude(double,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

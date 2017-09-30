@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatisticsGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ StatisticsGenerator\r\n
+comment1.params=input1\ input2
+comment1.target=StatisticsGenerator(double,\ double)
+comment1.text=\r\n\ Second\ constructor\ of\ class\ StatisticsGenerator\r\n
+comment2.params=
+comment2.target=double\ getFirstField()
+comment3.params=
+comment3.target=double\ getSecondField()
+comment4.params=
+comment4.target=double\ mean()
+comment4.text=\r\n\ mean\ calculates\ and\ returns\ the\ arithmetic\ mean\ of\ the\ instance\ fields\r\n\r\n\ @return\ \ the\ arithmetic\ mean\ of\ instance\ fields\ val1\ and\ val2\r\n
+comment5.params=
+comment5.target=double\ sumOfSquares()
+comment5.text=\r\n\ sum\ of\ squares\ calculates\ the\ sum\ of\ squares\r\n\r\n\ @return\ \ the\ sum\ of\ squares\ of\ instance\ fields\ val1\ and\ val2\r\n
+comment6.params=
+comment6.target=double\ magnitude()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

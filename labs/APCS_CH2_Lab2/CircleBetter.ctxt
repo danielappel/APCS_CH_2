@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=radius
+comment1.target=double\ calculateArea(int)
+comment2.params=radius
+comment2.target=double\ calcCircumference(int)
+comment3.params=val1\ val2
+comment3.target=double\ compare(double,\ double)
+comment4.params=radius\ area
+comment4.target=void\ printArea(int,\ double)
+comment5.params=radius\ circ
+comment5.target=void\ printCircumference(int,\ double)
+comment6.params=scalar\ area\ circ
+comment6.target=void\ printComparison(double,\ double,\ double)
+numComments=7

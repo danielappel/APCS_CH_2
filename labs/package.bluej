@@ -1,0 +1,27 @@
+#BlueJ package file
+package.editor.height=686
+package.editor.width=1322
+package.editor.x=-9
+package.editor.y=-9
+package.numDependencies=0
+package.numTargets=3
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=APCS_CH2_LAB1
+target1.type=PackageTarget
+target1.width=120
+target1.x=160
+target1.y=10
+target2.height=62
+target2.name=APCS_CH2_Lab2
+target2.type=PackageTarget
+target2.width=120
+target2.x=10
+target2.y=90
+target3.height=62
+target3.name=APCS_CH2_LAB3
+target3.type=PackageTarget
+target3.width=120
+target3.x=140
+target3.y=90
