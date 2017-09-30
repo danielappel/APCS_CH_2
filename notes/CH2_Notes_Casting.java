@@ -4,7 +4,7 @@ package notes;
 /**
  * Quick notes looking at Chapter 2 of book
  */
-public class CH2_Notes_1A
+public class CH2_Notes_Casting
 {
     public static void casting() {
         int value = 4;

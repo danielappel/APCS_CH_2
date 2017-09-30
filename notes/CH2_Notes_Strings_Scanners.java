@@ -11,7 +11,7 @@ import java.text.NumberFormat;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class CH2_Notes_2
+public class CH2_Notes_Strings_Scanners
 {
     public static void stringExamples() {
         //We can create a new string as follows:
@@ -47,6 +47,22 @@ public class CH2_Notes_2
         
         //System.out.println("NOTE:  THIS IS NOT CHANGING THE VALUE OF title2...WHY?");
         //Think about the return type on the methods.  You would need to do something like:  title2 = title2.toUpperCase();
+        
+    }
+    
+    public static void comparingStrings() {
+        String first = new String("Hello");
+        String second = "Hello";
+        
+        System.out.println("String literals and 'new' String");
+        System.out.println("Comparing using ==,  " + first == second);
+        System.out.println("Comparing using .equals, " + first.equals(second));
+        
+        
+        String third = new String("Hello"); 
+        System.out.println("Compared using 'new' strings");
+        System.out.println("Compared using ==, " + first == third);
+        System.out.println("Compared using .equals, " + first.equals(third));
         
     }
     

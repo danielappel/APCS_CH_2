@@ -9,7 +9,7 @@ package notes;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Ch2_Notes_1
+public class Ch2_Notes_EscapeSequences_DataTypes
 {
     enum Days {Monday, Tuesday, Wednesday, Thursday, Friday};
     
